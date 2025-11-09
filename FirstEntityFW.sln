@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Shop", "E-Shop\E-Shop.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem", "LibrarySystem\LibrarySystem.csproj", "{CCB789C3-EBF3-4175-8505-0E4F229300C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssimplyConnection", "AssimplyConnection\AssimplyConnection.csproj", "{1820DAC2-A2FC-47D9-8B25-34EEDEB9CFF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CCB789C3-EBF3-4175-8505-0E4F229300C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCB789C3-EBF3-4175-8505-0E4F229300C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCB789C3-EBF3-4175-8505-0E4F229300C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1820DAC2-A2FC-47D9-8B25-34EEDEB9CFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1820DAC2-A2FC-47D9-8B25-34EEDEB9CFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1820DAC2-A2FC-47D9-8B25-34EEDEB9CFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1820DAC2-A2FC-47D9-8B25-34EEDEB9CFF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
